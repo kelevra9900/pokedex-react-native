@@ -2,6 +2,9 @@
 
 This app is made in react native.
 
+
+![previewImage](https://firebasestorage.googleapis.com/v0/b/kelevra-81e2e.appspot.com/o/pokedex.png?alt=media&token=6cc9517f-6725-4f5d-8fb6-d1ec50a7cdc6)
+
 ## Installation
 
 use npm or yarn to install the dependencies.
